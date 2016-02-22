@@ -7,6 +7,7 @@ int main ()
 	printf(" %2i + %2i = %2i \n", x, c, x + c );
 	printf(" %2i - %2i = %2i \n", x, c, x - c );
 	printf(" %2i x %2i = %2i \n", x, c, x * c );
+	printf(" %2i / %2i = %2i \n", x, c, x / c );
 
 	return 0;
 
